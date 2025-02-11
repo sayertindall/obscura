@@ -4,14 +4,14 @@ const leaders = [
   {
     name: "Isabel Frasier",
     role: "General Partner",
-    linkedin: "https://linkedin.com",
-    email: "isabel@obscuraholdings.com",
+    linkedin: "https://www.linkedin.com/in/isabel-frasier/",
+    email: "isabel@obscura.holdings",
   },
   {
     name: "Sayer Tindall",
     role: "General Partner",
-    linkedin: "https://linkedin.com",
-    email: "sayer@obscuraholdings.com",
+    linkedin: "https://www.linkedin.com/in/sayertindall/",
+    email: "sayer@obscura.holdings",
   },
 ];
 
